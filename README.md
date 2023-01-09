@@ -1,1 +1,1 @@
-# web3-project-gptlike
+# Modern UI/UX GPT-3
